@@ -7,13 +7,10 @@ Much of this code was written event based
 Using the event code outline, the program will function when a event is activated
 the "say" code displays the sprite's scripts
 Some sprites are placed without a set location, but they will go automatically to a certain zone.
+When a sprite is clicked or touched by the character, the code will run to display and activate functions
 
 ## How to play the game
 The game can be played and restarted using the basic green flag icon in the top left corner of the screen.
-
-## Code editing
-This game was made on scratch as a base. To edit the code please rename and edit the code and file as you wish fro your own purposes.
-Much of this code was written event based, so the code will be different than a normal script
 
 ## Find a Bug?
 This game was made in under 10 days, so bugs are most definitely possible. 
@@ -21,8 +18,7 @@ If bugs are found submit an improvement to the project.
 Commenting on the project about the errors can also help fix the bugs
 
 ## Known bugs
-Sometimes sprites may randomly appear in different areas every once and a while, so please disregard that part of the game...
+Sometimes sprites may randomly appear in different areas every once and a while, so please disregard that part of the game and will be fixed...
 
 ## Confusions
 If you click the "sell one item" button and the text bar will not go away, just type something random and it will dissapear, it is not a bug...
-
